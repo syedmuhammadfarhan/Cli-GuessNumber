@@ -6,6 +6,7 @@ async function numberGuess() {
     var computerScore = 0;
     for (let i = 0; i < 3; i++) {
         let randomNumber = Math.floor(Math.random() * 10);
+        console.log('');
         await inquirer
             .prompt([
             {
