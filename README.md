@@ -1,5 +1,5 @@
 # Cli-GuessNumber
- CLI Number Guessing Game
+ TypeScript Nodejs CLI Number Guessing Game
 
 npm i farhan-guessnumber
 
